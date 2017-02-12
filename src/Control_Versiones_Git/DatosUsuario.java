@@ -1,7 +1,7 @@
 package Control_Versiones_Git;
 
 public class DatosUsuario {
-	private static String DNI;
+	private static String DNI="54094614-V";
 	private static double saldoU;
 	private static double margen=50;
 	public DatosUsuario(){
